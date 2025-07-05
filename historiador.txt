@@ -1,0 +1,6 @@
+2025-07-05 11:29:48 - Junta 1 = 40.0 - Posição: None,None,None - Status: OK:joint1 set to 40.0
+2025-07-05 11:30:09 - Junta 5 = 90.0 - Posição: None,None,None - Status: OK:joint5 set to 90.0
+2025-07-05 11:30:14 - Junta 5 = 90.0 - Posição: None,None,None - Status: OK:joint5 set to 90.0
+2025-07-05 11:30:18 - Junta 5 = 90.0 - Posição: None,None,None - Status: OK:joint5 set to 90.0
+2025-07-05 11:30:29 - Junta 2 = 20.0 - Posição: None,None,None - Status: OK:joint2 set to 20.0
+2025-07-05 11:30:32 - Junta 2 = 20.0 - Posição: None,None,None - Status: OK:joint2 set to 20.0
