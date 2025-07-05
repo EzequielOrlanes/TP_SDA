@@ -42,7 +42,7 @@ class TCPClient:
             
             # Registra no historiador
             with open(self.historian_file, 'a') as f:
-                f.write(f"{timestamp} - Junta {joint} = {value} - Posição: {position} - Status: {status_msg}\n")
+                f.write(f"{timestamp} - Junta {joint} = {value} - Posicao: {position} - Status: {status_msg}\n")
             
             return {
                 'status': status_msg,
